@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://ryanqueva.fr/">
-    <img src="https://github.com/beloow/Exercice-Javacript-Cookies/blob/main/logojs.png)" alt="Logo" width="80" height="80">
+    <img src="logojs.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Exercice | Javascript | Les cookies</h3>
