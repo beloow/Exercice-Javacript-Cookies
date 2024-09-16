@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://ryanqueva.fr/">
-    <img src="./logojs.png)" alt="Logo" width="80" height="80">
+    <img src="logojs.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Exercice | Javascript | Les cookies</h3>
@@ -56,7 +56,6 @@
 ## Roadmap
 
 - [ ] Crée un cookie.
-- [ ] Lire un cookie.
 - [ ] Modifier un cookie.
 - [ ] Récupéré un cookie.
 - [ ] Supprimer un cookie.
